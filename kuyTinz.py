@@ -1,0 +1,1 @@
+print("I kuy TInz ")
